@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF_FOOD", "IF_FOOD\IF_FOOD.csproj", "{391A5D65-16D5-4A52-9D3E-EA51038D1CF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFFood", "IFFood\IFFood.csproj", "{391A5D65-16D5-4A52-9D3E-EA51038D1CF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
