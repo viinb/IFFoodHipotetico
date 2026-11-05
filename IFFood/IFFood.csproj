@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Oracle.ManagedDataAccess" Version="23.26.400" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="Add_Itens.cs">
       <SubType>Form</SubType>
     </Compile>
